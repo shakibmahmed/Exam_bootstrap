@@ -1,0 +1,203 @@
+*{
+  font-family: 'Ubuntu', sans-serif;
+}
+.header{
+    background-color: #648cff;
+    min-height: 100px;
+    padding-top: 30px;
+}
+
+.background{
+    background: url(../img/background.png)no-repeat center/cover;
+    min-height: 800px;
+   padding-top: 130px;
+}
+.background_image img{
+    width: 100%;
+}
+
+.footer{
+    background-color: #353854;
+      min-height: 100px;
+    padding-top: 37px;
+    position: relative;
+}
+.logo{
+    padding-top: 15px;
+}
+
+.weather_image img{
+    width: 100%;
+}
+.mobile_image img{
+    width: 100%;
+}
+.top_footer{
+    background: url(../img/background2.png)no-repeat center/cover;
+    min-height: 466px;
+}
+.btn{transition: .4s}
+
+.menu{}
+.nav-style{
+    background-color: transparent !important;
+    border: none;
+}
+.background_title{
+    padding-top: 50px;
+}
+.background_title h1{
+    color: white;
+font-weight: bold;
+font-size: 50px;
+}
+.background_title p{
+    font-size: 20px;
+color: white;
+padding: 50px 0;
+}
+.botton_one{
+    color: white;
+background-color: #fc6a42;
+font-weight: bolder;
+}
+.botton_two{
+    color: white;
+background-color: #4466c9;
+font-weight: bolder;
+}
+.text{
+        padding-top: 100px;
+    padding-bottom: 80px;
+}
+.two{
+    font-size: 25px;
+color: #628cff;
+padding-bottom: 20px;
+font-weight: bold;
+    text-transform: uppercase;
+}
+.pee_one{}
+.text_one{}
+.text_one h3{
+    font-size: 20px;
+color: #353854;
+font-weight: bold;
+margin-top: 0px;
+padding-bottom: 18px;
+}
+.text_one p{
+    color: #c4c4c4;
+font-size: 13px;
+
+}
+.all_text{
+    padding-bottom: 90px;
+}
+.all_text img{}
+.pee{
+    font-size: 18px;
+color: #353854;
+}
+.icon_two{
+}
+.icon_two i{
+   color: #c3cfe5;
+font-size: 60px;
+padding-top: 385%;
+}
+.weather{}
+.nav-style-two{}
+.nav-style-two ul{}
+.nav-style-two ul li{
+    padding-left: 35px;
+}
+.nav-style-two ul li a{
+    color: #e4e4e4;
+    transition: .4s;
+    font-size: 18px;
+}
+.nav-style-two ul li:hover a{
+color: #ffffff ;
+}
+.social_icons {
+    padding-top: 14px;
+}
+.social_icons  ul li a i{
+    font-size: 25px;
+color: white;
+   
+}
+.social_icons i{
+    font-size: 25px;
+color: white;
+   
+}
+.social_icons  ul li{
+padding-left: 15px
+}
+.social_icons  ul li a:hover i{
+    color: #ffffff;
+}
+.text img{}
+.mobile_image{}
+.mobile_image img{}
+.pee_one{
+    font-size: 15px;
+color: #999999;
+}
+.img_right{
+float: right;
+}
+.singel_titel{}
+.singel_titel h1{
+    font-size: 32px;
+font-weight: bold;
+color: white;
+padding-top: 100px;
+padding-bottom: 40px;
+text-transform: uppercase;
+}
+.singel_titel p{
+    font-size: 19px;
+color: white;
+padding-bottom: 30px;
+}
+ 
+.icon-inline-two{}
+.icon-inline-two ul li{
+    padding-left: 15px;
+}
+.icon-inline-two ul li a{
+    font-size: 25px;
+color: white;
+    transition: .5s;
+}
+.icon-inline-two ul li a i{
+    color: #b0b0c3 !important;
+    transition: .5s;
+}
+.icon-inline-two ul li a:hover i{
+    color: white ;
+}
+.all{
+padding-bottom: 50px;
+}
+.menu_two{
+    padding-top: 14px;
+}
+.menu_two ul li{
+    padding-left: 37px;
+}
+.menu_two ul li a{
+    text-decoration: none;
+    color: #b5b5c8 !important;
+    transition: 1s; font-size: 18px
+}
+.menu_two ul li:hover a{
+    color: white !important;
+}
+
+.navbar-default .navbar-nav>li>a{color: #e1e1e1; font-size: 18px}
+
+.navbar-default .navbar-nav>li>a:hover{color: white}
